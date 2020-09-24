@@ -1,0 +1,127 @@
+
+.headerStyle nav{
+    line-height: 40px;
+    display: flex;
+
+}
+.headerStyle img{
+    height: 40px;
+    margin-left: 80px;
+    
+    
+
+}
+.headerStyle a{
+    color: black;
+    text-decoration: none;
+    font-size: 25px;
+    margin-left: 30px;
+   
+}
+.aStyle{
+    margin-left: 700px;
+}
+.bannerStyle{
+   height: 400px;
+   width: 100%;
+}
+.bannerStyle img{
+    height: 400px;
+    width: 100%;
+}
+.secondHeader{
+    text-align: center;
+}
+.secondHeader nav{
+    line-height: 40px;
+    font-size: 25px;
+}
+.secondHeader nav a{
+    color: black;
+    text-decoration: none;
+    font-size: 25px;
+    margin-left: 30px;
+}
+.lunchStyle{
+    height: 1000px;
+   
+}
+.lunchStyle1{
+    height: 450px;
+    display: flex;
+    width: 100%;
+    margin-left: 20px;
+}
+.lunchStyle2{
+    height: 450px;
+    display: flex;
+    width: 100%;
+    margin-left: 20px;
+}
+.lunchStyle1 img{
+    height: 250px;
+}
+.lunchStyle2 img{
+    height: 250px;
+}
+.lunchImgTextBox{
+    padding-top: 15px;
+    margin-left: 50px;
+    height: 440px;
+    width: 27%;
+    border-radius: 10px;
+    box-shadow: 1px 10px 15px rgba(0, 0, 0, 0.178);
+    cursor: pointer;
+}
+
+.btn input{
+    border: none;
+    border-radius: 5px;
+    width: 250px;
+    height: 35px;
+    color: white;
+    font-size: 25px;
+    background-color: gold;
+}
+.chooseUs{
+    height: 450px;
+    display: flex;
+    width: 100%;
+    margin-left: 10px;
+   
+}
+
+.imgTextBox{
+    padding-top: 15px;
+    margin-left: 20px;
+    height: 440px;
+    width: 30%;
+    border-radius: 10px;
+    box-shadow: 1px 5px 10px gray;
+    
+    
+}
+.imgTextBox img{
+    height: 310px;
+}
+.footer{
+    height: 200px;
+    margin-top: 70px;
+    background-color: black;
+    display: flex;
+    width: 100%;
+}
+.footer img{
+    height: 40px;
+    margin-top: 20px;
+}
+.footerStyle{
+    margin-top: 20px;
+    width: 20%;
+   
+    
+}
+.footerStyle li{
+    color: white;
+}
+
